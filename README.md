@@ -35,7 +35,7 @@
 
 - There is also Autoplay feature available, after turning on autoplay feature every time computer will play but 3 points will be deducted after end of game from the score of that player.
 
-- There is showPreviosGamePlay feature is available which will displays all the moves one by one after the game ends. 
+- There is showPreviousGamePlay feature is available which will display all the moves one by one after the game ends. 
 
 <br>
 
