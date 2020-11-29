@@ -3,10 +3,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/C-blue.svg"
          alt="C">
-    <img src="https://img.shields.io/badge/Machine-Learning-red.svg"
-         alt="Machine-Learning">
-    <img src="https://img.shields.io/badge/K Nearest-Neighbor-yellow.svg"
-         alt="K Nearest-Neighbor">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
          alt="contributions-welcome">
     <a href="https://github.com/RitikGajjar3/Tic-Tac-Toe-Game-2.0/blob/main/LICENSE">
@@ -17,6 +13,9 @@
 <p align="center">
   <a href="https://vignette.wikia.nocookie.net/board-games-galore/images/4/47/Tictactoe-winning-vector-639732.jpg/revision/latest/top-crop/width/360/height/450?cb=20160711013756">
   <img width="350" height="350" src="https://vignette.wikia.nocookie.net/board-games-galore/images/4/47/Tictactoe-winning-vector-639732.jpg/revision/latest/top-crop/width/360/height/450?cb=20160711013756">
+   
+   <a href="https://user-images.githubusercontent.com/40620782/100535745-a5272080-3241-11eb-8afb-2ad9a00e5bcf.png">
+  <img width="350" height="350" src="https://user-images.githubusercontent.com/40620782/100535745-a5272080-3241-11eb-8afb-2ad9a00e5bcf.png">
 </p>
 
 <h2>📘 Problem Overview:</h2>
