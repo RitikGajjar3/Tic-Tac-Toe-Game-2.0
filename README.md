@@ -15,52 +15,31 @@
 </p>
 
 <p align="center">
-  <a href="https://res.cloudinary.com/grohealth/image/upload/c_fill,f_auto,fl_lossy,h_650,q_auto,w_1085/v1581695681/DCUK/Content/causes-of-diabetes.png">
-  <img width="600" height="350" src="https://res.cloudinary.com/grohealth/image/upload/c_fill,f_auto,fl_lossy,h_650,q_auto,w_1085/v1581695681/DCUK/Content/causes-of-diabetes.png">
+  <a href="https://vignette.wikia.nocookie.net/board-games-galore/images/4/47/Tictactoe-winning-vector-639732.jpg/revision/latest/top-crop/width/360/height/450?cb=20160711013756">
+  <img width="350" height="350" src="https://vignette.wikia.nocookie.net/board-games-galore/images/4/47/Tictactoe-winning-vector-639732.jpg/revision/latest/top-crop/width/360/height/450?cb=20160711013756">
 </p>
 
 <h2>📘 Problem Overview:</h2>
 
-### Machine Learning in Health
+### Tic Tac Toe 2.0
 
-- Diabetes is a condition that impairs the body's ability to process blood glucose, otherwise known as blood sugar. In the United States, the estimated number of people over 18 years of age with diagnosed and undiagnosed diabetes is 30.2 million. The figure represents between 27.9 and 32.7 percent of the population.
+- The game is played on a grid that's 4 squares by 4 sqaures 3 squares by squares.
 
-- Without ongoing, careful management, diabetes can lead to a buildup of sugars in the blood, which can increase the risk of dangerous complications, including stroke and heart disease.
+- First Player will get O Mark,  Second Player will get X Mark.
 
-- Different kinds of diabetes can occur, and managing the condition depends on the type. Not all forms of diabetes stem from a person being overweight or leading an inactive lifestyle. In fact, some are present from childhood.
+- The player to get 3 of her marks in a row(up. down, diagonally will get 3 points.
 
-- Our task is to predict whether a person is suffering from diabetes or not (Binary Classification)
+- The player to get 4 of her marks in a row(up. down, diagonally will get 7 points.
 
-<br>
+- There are 2 hints available for each player.
 
-<h2>📦 Data Overview</h2>
-In this problem you are given a Diabetes Data set consisting of following features -
-
-['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
-
-<br>
-
-### ✅  Requirements
-
-#### Programming Language
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-#### Packages
-Anaconda
-
-#### Tools/IDE 
-Jupyter notebook (IPython)
-
-##### How to use it
-1. Fork this repository to have your own copy
-2. Clone your copy on your local system
-3. Install necessary packages
+- There is also Autoplay feature available, after turning on autoplay feature every time computer will play but 3 points will be deducted after end of game.
 
 <br>
 
 ## 📚 Reference
 ```python
-Image("https://www.diabetes.co.uk/diabetes-causes.html")
+Image("https://board-games-galore.fandom.com/wiki/Tic-tac-toe")
 
 ```
 
