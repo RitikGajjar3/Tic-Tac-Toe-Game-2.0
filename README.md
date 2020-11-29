@@ -1,8 +1,8 @@
 # <p align="center">Tic-Tac-Toe-2.0</p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/C-blue.svg"
-         alt="C">
+    <img src="https://img.shields.io/badge/C Language-blue.svg"
+         alt="C Language">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
          alt="contributions-welcome">
     <a href="https://github.com/RitikGajjar3/Tic-Tac-Toe-Game-2.0/blob/main/LICENSE">
@@ -35,7 +35,7 @@
 
 - There is also Autoplay feature available, after turning on autoplay feature every time computer will play but 3 points will be deducted after end of game from the score of that player.
 
-- There is show previos game play feature is available which will displays all the moves one by one after the game ends. 
+- There is showPreviosGamePlay feature is available which will displays all the moves one by one after the game ends. 
 
 <br>
 
