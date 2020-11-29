@@ -42,7 +42,6 @@
 ## 📚 Reference
 ```python
 Image("https://board-games-galore.fandom.com/wiki/Tic-tac-toe")
-
 ```
 
 <br>
